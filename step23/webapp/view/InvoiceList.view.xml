@@ -24,6 +24,7 @@
 						path: 'invoice>Status',
 						formatter: '.formatter.statusText'
 					}"/>
+			</firstStatus>
     	</ObjectListItem>
       </items>
    </List>
